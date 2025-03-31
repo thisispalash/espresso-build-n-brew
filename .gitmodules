@@ -1,0 +1,18 @@
+[submodule "src/client/landing"]
+	path = src/client/landing
+	url = https://github.com/thisispalash/semicolonfingers
+[submodule "src/client/write"]
+	path = src/client/write
+	url = https://github.com/thisispalash/emptyyourmug
+[submodule "src/client/read"]
+	path = src/client/read
+	url = https://github.com/thisispalash/pullmythread.git
+[submodule "src/contracts"]
+	path = src/contracts
+	url = https://github.com/sliver-labs/semicolon-forge.git
+[submodule "src/espresso/caff"]
+	path = src/espresso/caff
+	url = https://github.com/sliver-labs/semicolon-cafe.git
+[submodule "src/espresso/nitro"]
+	path = src/espresso/nitro
+	url = https://github.com/sliver-labs/nitro-contracts.git
