@@ -6,7 +6,9 @@
 
 Semicolon Fingers is a storytelling platform tackling the global loneliness epidemic through an emotionally intelligent, token-incentivized web3 experience. By blending interactive text, sentiment analysis, and open-source infrastructure, it offers a new kind of human connection — one that is meaningful, measurable, and mental-health-forward.
 
-See the application in action — ![![youtube-demo-gg23-thumbnail](https://img.youtube.com/vi/7HWkueO_RF4/0.jpg)](https://youtu.be/7HWkueO_RF4?si=yQt1qHiockcr1JXB)
+_See the application in action_
+
+[![youtube-demo](https://img.youtube.com/vi/7HWkueO_RF4/0.jpg)](https://youtu.be/7HWkueO_RF4?si=yQt1qHiockcr1JXB)
 
 ## How it works
 
